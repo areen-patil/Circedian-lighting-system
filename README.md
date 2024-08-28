@@ -1,1 +1,1 @@
-# Circedian-lighting-system
+# Circadian-lighting-system
